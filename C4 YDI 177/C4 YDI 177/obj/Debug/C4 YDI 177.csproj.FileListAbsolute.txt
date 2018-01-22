@@ -1,0 +1,9 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 YDI 177\bin\Debug\C4 YDI 177.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 YDI 177\obj\Debug\C4 YDI 177.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 YDI 177\obj\Debug\C4_YDI_177.Form1.resources
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 YDI 177\obj\Debug\C4_YDI_177.Properties.Resources.resources
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 YDI 177\obj\Debug\C4 YDI 177.csproj.GenerateResource.Cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 YDI 177\bin\Debug\C4 YDI 177.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 YDI 177\bin\Debug\C4 YDI 177.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 YDI 177\obj\Debug\C4 YDI 177.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 YDI 177\obj\Debug\C4 YDI 177.pdb
