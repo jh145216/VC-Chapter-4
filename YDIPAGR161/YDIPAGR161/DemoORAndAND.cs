@@ -30,7 +30,7 @@ namespace YDIPAGR161
             if ((deliveryZone == ZONE1 || deliveryZone == ZONE2) &&
                 quantity < LOW_QUANTITY);
             Console.WriteLine("Delivery is free");
-            else
+            
                 Console.WriteLine("A delivery charge applies");
         }
     }

@@ -1,2 +1,7 @@
 C:\Users\jh145216\AppData\Local\Temporary Projects\YDIPAGR161\bin\Debug\YDIPAGR161.exe.config
 C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDIPAGR161\YDIPAGR161\bin\Debug\YDIPAGR161.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDIPAGR161\YDIPAGR161\bin\Debug\YDIPAGR161.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDIPAGR161\YDIPAGR161\bin\Debug\YDIPAGR161.pdb
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDIPAGR161\YDIPAGR161\obj\Debug\YDIPAGR161.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDIPAGR161\YDIPAGR161\obj\Debug\YDIPAGR161.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDIPAGR161\YDIPAGR161\obj\Debug\YDIPAGR161.pdb
