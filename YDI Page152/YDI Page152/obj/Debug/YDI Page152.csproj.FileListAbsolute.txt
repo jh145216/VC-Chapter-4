@@ -1,1 +1,7 @@
 C:\Users\jh145216\AppData\Local\Temporary Projects\YDI Page152\bin\Debug\YDI Page152.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDI Page152\YDI Page152\bin\Debug\YDI Page152.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDI Page152\YDI Page152\bin\Debug\YDI Page152.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDI Page152\YDI Page152\bin\Debug\YDI Page152.pdb
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDI Page152\YDI Page152\obj\Debug\YDI Page152.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDI Page152\YDI Page152\obj\Debug\YDI Page152.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-4\YDI Page152\YDI Page152\obj\Debug\YDI Page152.pdb
