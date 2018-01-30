@@ -1,0 +1,6 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 Case 1\bin\Debug\C4 Case 1.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 Case 1\obj\Debug\C4 Case 1.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 Case 1\bin\Debug\C4 Case 1.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 Case 1\bin\Debug\C4 Case 1.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 Case 1\obj\Debug\C4 Case 1.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\C4 Case 1\obj\Debug\C4 Case 1.pdb
